@@ -1,0 +1,20 @@
+div {
+    height: 100px;
+    width: 100px;
+}
+
+.cuadrado1 {
+    background-color: #FF0000;
+}
+
+.cuadrado2 {
+    background-color: #00FF00;
+}
+
+.cuadrado3 {
+    background-color: #0000FF;
+}
+
+.cuadrado4 {
+    background-color: #FFFF00;
+}
